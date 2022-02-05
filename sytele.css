@@ -34,7 +34,9 @@
     margin: 0 auto;
     text-align: center;
   }
-  
+  .raphael_perfil{
+    width: 100px;
+  }
   h1 {
     font-weight: normal;
     letter-spacing: .125rem;
